@@ -3,18 +3,19 @@
 * Username and Password is required for login. 
 
 ## Grade 2 Security practice requirements: 
-* All of Grade 1’s security practices 
+* All of Grade 1’s security practices. 
 * Full Disk Encryption is enabled and active on the laptop.
 
 ## Grade 3 Security practice requirements: 
-* All of Grade 2’s security practices 
-* Firewall is whitelisting only and all traffic is blocked by default. 
+* All of Grade 2’s security practices.
+* Firewall is whitelisting only and all traffic is blocked by default.
+* Swap is stored encrypted.
 
 ## Grade 4 Security practice requirements: 
-* All of Grade 3’s security practices 
-* No incoming connections allowed unless related to outbound traffic. 
+* All of Grade 3’s security practices.
+* No incoming connections allowed unless related to outbound traffic.
 * All downloaded software has had SHA checksum verified with source of software (matching version, build).
-* Encrypted Boot Partition
+* Encrypted Boot Partition.
 * Two factor local authentication.
 
 ## Grade 5 Security practice requirements: 
