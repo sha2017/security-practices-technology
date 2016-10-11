@@ -16,8 +16,8 @@ Standard Set of IT Security practices.
   - TLS
   
 ## Password Management:
-  Password Generation
-  Password Storage
+  - Password Generation
+  - Password Storage
 
 ## Information Management:
   - user information storage
