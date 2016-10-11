@@ -3,25 +3,30 @@ Standard Set of IT Security practices.
 
 
 # Index: 
-## 1. Infrastructure: 
+## 1. Infrastructure
    - physical-server
    - virtual-servers
 
-## 2. applications:
+## 2. applications
    - generic-application-servers
 
 ## 3. Encryption Specifications 
   - GPG
   - SSH
   - TLS
+  - LUKS (Full Disk Encryption)
   
-## 4. Password Management:
+## 4. Password Management
   - Password Generation
   - Password Storage
 
-## 5. Information Management:
+## 5. Information Management
   - user information storage
   - backups
+  
+## 6. End-User Device Security Practices
+  - Laptops
+  - Smartphones
 
 ## TODO
   - Peer reviewing documentation and protocol
