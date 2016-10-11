@@ -9,7 +9,7 @@
 * RSA key length [bit] 2048
 * Number of RSA key pairs: 3
 * Number of ECC key pairs: No
-* PKI/CA management features: Yes
+* PKI/CA management features: No
 * S/MIME email and hard disk encryption (X.509, PKCS#11): Yes
 * OpenPGP/ GnuPG email encryption: Yes
 * Secure login (One Time Passwords): No
@@ -22,7 +22,7 @@
 * RSA key length [bit] 1024 - 4096
 * Number of RSA key pairs: 3
 * Number of ECC key pairs: No
-* PKI/CA management features: Yes
+* PKI/CA management features: No
 * S/MIME email and hard disk encryption (X.509, PKCS#11): Yes
 * OpenPGP/ GnuPG email encryption: Yes
 * Secure login (One Time Passwords): No 
@@ -35,7 +35,7 @@
 * RSA key length [bit] 1024 - 4096
 * Number of RSA key pairs: 3
 * Number of ECC key pairs: No
-* PKI/CA management features: Yes
+* PKI/CA management features: No
 * S/MIME email and hard disk encryption (X.509, PKCS#11): Yes
 * OpenPGP/ GnuPG email encryption: Yes
 * Secure login (One Time Passwords): No
