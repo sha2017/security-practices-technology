@@ -14,6 +14,15 @@
 * PIN Codes must be at least 8 characters.
 * Your PIN cannot contain your Bank PIN, Birthday(Year, Month, Day).
 
+## Grade 3 Security practice requirements: 
+* All of Grade 5’s security practices 
+
+## Grade 4 Security practice requirements: 
+* All of Grade 3’s security practices 
+
+## Grade 5 Security practice requirements: 
+* All of Grade 4’s security practices 
+
 # SSH: 
 ## Grade 1 Security practice requirements: 
 * Software Keys Must be at least 4096 bits. 
@@ -28,6 +37,15 @@
 * PIN Codes must be at least 22 characters (applicable to software SSH Keys only).
 * Your PIN cannot contain your Bank PIN, Birthday(Year, Month, Day).
 
+## Grade 3 Security practice requirements: 
+* All of Grade 5’s security practices 
+
+## Grade 4 Security practice requirements: 
+* All of Grade 3’s security practices 
+
+## Grade 5 Security practice requirements: 
+* All of Grade 4’s security practices 
+
 # TLS 
 ## Grade 1 Security practice requirements: 
 * All TLS private Keys Must be at least 4096 bits. 
@@ -35,3 +53,12 @@
 ## Grade 2 Security practice requirements: 
 * All of Grade 1’s security practices 
 * Hardware Smartcards with at least 4096 bit encryption ensure maximum physical security of encryption keys.
+
+## Grade 3 Security practice requirements: 
+* All of Grade 5’s security practices 
+
+## Grade 4 Security practice requirements: 
+* All of Grade 3’s security practices 
+
+## Grade 5 Security practice requirements: 
+* All of Grade 4’s security practices 
