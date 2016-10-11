@@ -34,3 +34,5 @@
   - !AECDH
   - !MD5
 
+## Grade 5 Security practice requirements: 
+* All of Grade 4’s security practices 
