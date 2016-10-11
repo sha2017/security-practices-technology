@@ -25,7 +25,7 @@ Standard Set of IT Security practices.
   - backups
   
 ## 6. End-User Device Security Practices
-  - Laptops
+  - End-User Computers
   - Smartphones
 
 ## TODO
