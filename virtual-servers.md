@@ -16,4 +16,4 @@
 
 ## Grade 4 Security practice requirements:
 * All of Grade 3’s security practices 
-* Encryption of Virtual Servers is only required if the hypervisor has un-encrypted storage.
+* Encryption of Virtual Server's disk drives. 
