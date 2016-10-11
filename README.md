@@ -22,3 +22,14 @@ Standard Set of IT Security practices.
 ## Information Management:
   - user information storage
   - backups
+
+## TODO
+  - Peer reviewing documentation and protocol
+  - Auditting tooling
+  - Trusted advisory web trust
+  - Writing introduction, Goals of the "Standard Set of IT Security practices
+
+### Changelog
+
+  - Maikel: Added TODO and changelog section
+  
