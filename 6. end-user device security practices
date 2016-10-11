@@ -1,14 +1,14 @@
-# Laptops
+# End-User Computers
 ## Grade 1 Security practice requirements: 
 * Username and Password is required for login. 
 
 ## Grade 2 Security practice requirements: 
 * All of Grade 1’s security practices 
-* Full Disk Encryption
+* Full Disk Encryption is enabled and active on the laptop.
 
 ## Grade 3 Security practice requirements: 
 * All of Grade 2’s security practices 
-* Firewall is whitelisting only
+* Firewall is whitelisting only and all traffic is blocked by default. 
 
 ## Grade 4 Security practice requirements: 
 * All of Grade 3’s security practices 
