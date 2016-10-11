@@ -26,17 +26,24 @@
 # Smartphones
 ## Grade 1 Security practice requirements: 
 * 4 digit minimum pin code required. 
+* If rooted source of firmware/rom/bootloader/recovery image has been verified as safe. 
+* If rooted firmware/rom/bootloader/recovery image SHA signiture has been checked and verified with original source of firmware/rom/bootloader/recovery image. 
 
 ## Grade 2 Security practice requirements: 
 * All of Grade 1’s security practices 
 * Phone Encryption is enabled and active on Internal Storage.
+* 6 digit minimum pin code required. 
 
 ## Grade 3 Security practice requirements: 
 * All of Grade 2’s security practices 
 * Phone Encryption is enabled and active on External Storage (If applicable).
+* alphanumeric password of a minimum of 8 characters required.
 
 ## Grade 4 Security practice requirements: 
 * All of Grade 3’s security practices 
+* SSH Private Keys for infrastructure or services are not stored on the device (excluding low secuirty/risk services where special mobile device SSH key has been generated)
+* No GPG or LUKS/Full Disk Encryption keys stored on the device. 
 
 ## Grade 5 Security practice requirements: 
 * All of Grade 4’s security practices 
+* No senstive information stored locally (this excludes personal data)
