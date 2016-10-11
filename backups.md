@@ -14,5 +14,5 @@
 * Master key must be stored on Hardware HSM with a securely randomly generated password.
 
 ## Grade 3-B Security practice requirements: 
-* All of Grade 3’s security practices 
+* All of Grade 2’s security practices 
 * Master key must be in shards with a 66% voting required for retrieval of master key in emergency situations. 
