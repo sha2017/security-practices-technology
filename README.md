@@ -3,23 +3,23 @@ Standard Set of IT Security practices.
 
 
 # Index: 
-## Infrastructure: 
+## 1. Infrastructure: 
    - physical-server
    - virtual-servers
 
-## applications:
+## 2. applications:
    - generic-application-servers
 
-## Encryption Specifications 
+## 3. Encryption Specifications 
   - GPG
   - SSH
   - TLS
   
-## Password Management:
+## 4. Password Management:
   - Password Generation
   - Password Storage
 
-## Information Management:
+## 5. Information Management:
   - user information storage
   - backups
 
