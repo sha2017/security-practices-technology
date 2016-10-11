@@ -35,3 +35,5 @@
 ## Grade 4 Security practice requirements:
 * All of Grade 3’s security practices 
 * Encryption of Virtual Server's disk drives. 
+## Grade 5 Security practice requirements:
+* All of Grade 4’s security practices 
