@@ -26,12 +26,11 @@
 * All of Grade 3’s security practices 
 * SAML based federated authentication must be used to ensure central storage of password hashes. 
 * Following ciphers must be used preferred in the following order:
-Ciphers:
-- ECDH+AESGCM
-- ECDH+AES256
-- ECDH+AES128
-- DH+3DES
-- !ADH
-- !AECDH
-- !MD5
+  - ECDH+AESGCM
+  - ECDH+AES256
+  - ECDH+AES128
+  - DH+3DES
+  - !ADH
+  - !AECDH
+  - !MD5
 
