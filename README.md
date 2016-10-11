@@ -24,7 +24,7 @@ Standard Set of IT Security practices.
   - user information storage
   - backups
   
-## 6. End-User Device Security Practices
+## 6. End-User Security Practices
   - End-User Computers
   - Smartphones
 
