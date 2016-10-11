@@ -7,7 +7,7 @@
 * Hidden volumes: No
 * Encrypted Storage: No
 * RSA key length [bit] 2048
-* Number of RSA key pairs: 48
+* Number of RSA key pairs: 3
 * Number of ECC key pairs: No
 * PKI/CA management features: Yes
 * S/MIME email and hard disk encryption (X.509, PKCS#11): Yes
@@ -33,7 +33,7 @@
 * Hidden volumes: Yes
 * Encrypted Storage: Yes
 * RSA key length [bit] 1024 - 4096
-* Number of RSA key pairs: 48
+* Number of RSA key pairs: 3
 * Number of ECC key pairs: No
 * PKI/CA management features: Yes
 * S/MIME email and hard disk encryption (X.509, PKCS#11): Yes
