@@ -9,11 +9,15 @@ Standard Set of IT Security practices.
 
 ## applications:
    - generic-application-servers
-Encryption Specifications: 
+Encryption Specifications 
   - GPG
   - SSH
   - TLS
   
 Password Management:
-  Password Generation: 
-  Password Storage:
+  Password Generation
+  Password Storage
+
+Information Management:
+  - user information storage
+  - backups
